@@ -1,0 +1,22 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "name": "Geladeira",
+            "description": "Branca, 1.9 metros, duas portas",
+            "price": 2100
+        },
+        {
+            "id": "48a1b07b-19c1-42e1-a3e3-9c67f545cd17",
+            "name": "teste",
+            "description": "teste",
+            "price": 12
+        },
+        {
+            "id": "933c24a7-048f-4903-84cb-4d41f5591715",
+            "name": "teste",
+            "description": "teste",
+            "price": 123
+        }
+    ]
+}
